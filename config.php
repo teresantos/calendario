@@ -20,10 +20,10 @@
 **/
 
 // Datos de conexion a la base de datos
-$servidor='localhost';
-$usuario='root';
-$pass='';
-$bd='eventos';
+$servidor='134.209.4.232';
+$usuario='guajardo_root';
+$pass='P@ss1909sql';
+$bd='guajardo_eventos';
 
 // Nos conectamos a la base de datos
 $conexion = new mysqli($servidor, $usuario, $pass, $bd);	
