@@ -37,7 +37,7 @@ if ($conexion->connect_errno) {
 }
 
 // Url donde estara el proyecto, debe terminar con un "/" al final
-$base_url="http://localhost/calendario/";
+$base_url="http://calendario-git-tere-santos-v-dev.apps.sandbox.x8i5.p1.openshiftapps.com/";
 
 ?>
 
