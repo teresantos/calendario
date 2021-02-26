@@ -20,7 +20,7 @@
 **/
 
 // Datos de conexion a la base de datos
-$servidor='134.209.4.232';
+$servidor='134.209.4.232,3306';
 $usuario='guajardo_root';
 $pass='P@ss1909sql';
 $bd='guajardo_eventos';
